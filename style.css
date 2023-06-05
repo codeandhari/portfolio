@@ -1,0 +1,25 @@
+* {
+    padding: 0;
+    margin: 0;
+    height: 100%;
+    font-family: 'Geologica', sans-serif;
+}
+
+.landing__page{
+    background-image: url("assets/img/landingPageBg.jpg");
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.details {
+    color: azure;
+    text-align: center;
+    padding-top: 100%;
+}
+.details .text{
+    font-size:35px;
+    letter-spacing: 6px;
+}
+
